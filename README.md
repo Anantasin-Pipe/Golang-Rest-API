@@ -1,4 +1,4 @@
-# Event Management REST API
+# Golang-Rest-API
 
 A lightweight RESTful API built with **Go** and **Gin Framework**. This is my first Go project, developed while following a Web Development with Go course on Udemy to practice building backend services.
 
